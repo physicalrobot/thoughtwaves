@@ -47,9 +47,6 @@
 
 .logo__image {
   max-height: 200px;
-  @media (max-width: $tablet) {
-    max-height: 20px;
-  }
 }
 
 /* Nav */

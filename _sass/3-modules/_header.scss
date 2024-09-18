@@ -49,6 +49,12 @@
   max-height: 200px;
 }
 
+/* Styling for mobile devices */
+@media (max-width: 768px) {
+  .logo__image {
+    max-height: 40px; /* Adjust the size as needed for smaller screens */
+  }
+}
 /* Nav */
 .main-nav {
   width: 100%;

@@ -1,32 +1,40 @@
-# Norlin
+# Thoughtwave
 
-Norlin is a creative modern theme with a clean design specially created for dark themes lovers.
+Welcome to **Thoughtwave** – a destination where curiosity meets discovery!
 
-Norlin theme is fully responsive and looks great on mobile devices and has a beautiful and modern design that is best suited for your personal or corporate blog. You can easily customize the theme by changing the accent colors, the arrangement of the widgets, etc.
+## About
 
-* * *
+**Thoughtwave** is a personal blog created by Vikalp Malhotra, a former astrophysics major and science enthusiast. Here, I share my thoughts on the latest scientific discoveries, dive into awesome concepts in science, and discuss the wonders of the universe.
 
-### Demo
+This blog is dedicated to science communication and education, aiming to inspire anyone who has a passion for learning more about the world through the lens of physics, astronomy, and other scientific disciplines.
 
-Check the theme in action [Demo](https://norlin.netlify.app/)
+## Topics
 
-* * *
+On Thoughtwave, you can expect to find posts on topics such as:
+- The latest scientific discoveries
+- Deep dives into concepts in astrophysics, quantum mechanics, and other areas of physics
+- Discussions of interesting phenomena in biology, chemistry, and environmental science
+- Insights from my journey in learning and exploring science
 
-### Deployment
+## Purpose
 
-To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `bundle exec jekyll serve` to start the Jekyll server.
+The purpose of this blog is to:
+- Provide accessible and engaging explanations of complex scientific ideas
+- Keep readers up to date on breakthroughs and innovations in science
+- Encourage curiosity and inspire a passion for science among people of all ages
 
-I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
+## Who Should Read
 
+If you are:
+- A science enthusiast
+- A student eager to explore more about the universe
+- Someone who enjoys keeping up with the latest discoveries in science
+- Or just a curious mind looking to learn something new
 
-* * *
+Then **Thoughtwave** is the place for you!
 
-### Documentation
+## Get In Touch
 
-Before using the Norlin theme, please read the attached documentation.
+Have a question or want to suggest a topic for a future post? Feel free to reach via email: 
 
-* * *
-
-### Support
-
-<p>If you have any questions or feedback about the theme, please feel free to contact me by mail <a href="mailto:hi.artemsheludko@gmail.com">Contact</a><p># sciencewebsite
+Happy learning, and let's keep riding the Thoughtwave of scientific discovery together!

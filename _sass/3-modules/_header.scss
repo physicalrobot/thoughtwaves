@@ -7,7 +7,7 @@
 
   padding: 20px 0; /* optional: adjust padding for spacing */
   text-align: center;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
 
   &.header--top {
@@ -178,6 +178,10 @@
   align-items: center;
   font-size: 24px;
   color: $text-color;
+  width:200px;
+
+
+
 
   .search-button {
     font-family: $heading-font-family;
@@ -225,6 +229,12 @@
 
   .nav__icon {
     cursor: pointer;
+  }
+}
+
+@media (max-width: 768px) {
+  .nav-buttons {
+    max-width: 100px; /* Adjust the size as needed for smaller screens */
   }
 }
 

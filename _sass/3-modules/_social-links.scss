@@ -1,14 +1,21 @@
 /* Social Links */
 .social {
-  text-align: center;
+  text-align: center;  
+  margin:0 auto;
+  position:relative; 
 
   .social__list {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-  }
 
+
+  }
+  
+  .list-reset {
+    align-items: center; 
+  }
   .social__item {
     display: inline-block;
     margin-left: 8px;

@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
-title: Norlin
-logo: # You can add own logo. For example '/images/logo.png'.
+title: 
+logo: '/images/logo2.png'
 description: Norlin – A Beautiful Dark Blog Theme for Jekyll.
 
 
@@ -9,29 +9,29 @@ description: Norlin – A Beautiful Dark Blog Theme for Jekyll.
 # Navigation Settings
 menu-settings:
   menu-items:
-    - title: 'Home'
-      url: '/'
+    # - title: 'Home'
+    #   url: '/'
     - title: 'About'
       url: '/about/'
-    - title: 'Contact Me'
-      url: '/contact/'
-    - title: 'Style Guide'
-      url: '/styleguide/'
+    # - title: 'Contact Me'
+    #   url: '/contact/'
+    # - title: 'Style Guide'
+    #   url: '/styleguide/'
 
 
 #-------------------------------
 # Author Settings
 author:
-  name: Robert Wilson
+  name: Vikalp Malhotra
   avatar: '/images/15.jpg'
 
 
 #-------------------------------
 # Hero Settings
 hero:
-  title: Robert Wilson
+  title: Thoughtwave
   description: Thoughts, stories and ideas.
-  image: '/images/spacebackground.png'
+  image: '/images/scientistskele.png'
 
 
 #-------------------------------
@@ -48,13 +48,13 @@ contact:
 # Footer section
 social:
 - {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://twitter.com"}
-- {icon: "fa-brands fa-facebook-f", name: "Facebook", link: "https://facebook.com"}
-- {icon: "fa-brands fa-dribbble", name: "Dribbble", link: "https://dribbble.com"}
+# - {icon: "fa-brands fa-facebook-f", name: "Facebook", link: "https://facebook.com"}
+# - {icon: "fa-brands fa-dribbble", name: "Dribbble", link: "https://dribbble.com"}
 - {icon: "fa-brands fa-instagram", name: "Instagram", link: "https://instagram.com"}
-- {icon: "fa-brands fa-pinterest", name: "Pinterest", link: "https://pinterest.com"}
-- {icon: "fa-brands fa-youtube", name: "Youtube", link: "https://youtube.com"}
+# - {icon: "fa-brands fa-pinterest", name: "Pinterest", link: "https://pinterest.com"}
+# - {icon: "fa-brands fa-youtube", name: "Youtube", link: "https://youtube.com"}
 - {icon: "fa-brands fa-github", name: "Github", link: "https://github.com"}
-- {icon: "fa-brands fa-vimeo-v", name: "Vimeo", link: "https://vimeo.com/"}
+# - {icon: "fa-brands fa-vimeo-v", name: "Vimeo", link: "https://vimeo.com/"}
 
 # Example of adding a new link to the footer - {icon: "fa-brands fa-mastodon", name: "Mastodon", link: "https://mastodon.social/"}
 # Other icons can be found at https://fontawesome.com/icons
@@ -72,6 +72,6 @@ google-analytics: # Add your identifier. For example UA-99631805-1.
 
 #-------------------------------
 # Newsletter
-mailchimp: enable # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
-mailchimp-identifier: # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
-mailchimp-button-text: Join
+# mailchimp: enable # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
+# mailchimp-identifier: # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
+# mailchimp-button-text: Join

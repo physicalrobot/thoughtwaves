@@ -171,8 +171,9 @@
   .footer__inner {
     display: flex;
     justify-content: space-between;
+    width: 100%;
     align-items: center;
-
+ 
     @media only screen and (max-width: $desktop) {
       flex-direction: column;
 
@@ -181,10 +182,17 @@
       }
     }
     @media only screen and (max-width: $tablet) {
-       align-items: flex-start;
+       align-items: flex-center;
     }
   }
+  .footer__inner ul {
+    display: flex; /* Ensure the list is treated as a flex container */
+    align-items: center; /* Vertically center list items */
+
+  }
+
 }
+
 
 /* Copyright */
 .copyright {

@@ -5,6 +5,11 @@
   transition: $global-transition;
   color: $white;
 
+  padding: 20px 0; /* optional: adjust padding for spacing */
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+
   &.header--top {
     position: absolute;
     top: 0;
@@ -41,7 +46,7 @@
 }
 
 .logo__image {
-  max-height: 40px;
+  max-height: 200px;
 }
 
 /* Nav */
@@ -96,20 +101,25 @@
 .navigation {
   display: flex;
   align-items: center;
+  justify-content: left; /* Centers the entire nav list */
+  flex-grow: 1;             /* Ensures navigation grows and takes equal space */
 }
 
 .top-nav {
   .nav__list {
+
     .nav__item {
+      font-family: $heading-font-family;
       display: inline-block;
-      margin-right: 40px;
+      margin-right: 40px; 
+      
       &:last-child {
         margin-right: 0;
       }
 
       .nav__link {
         position: relative;
-        font-size: 12px;
+        font-size: 20px;
         font-weight: 700;
         letter-spacing: 1px;
         text-transform: uppercase;
@@ -164,6 +174,10 @@
   color: $text-color;
 
   .search-button {
+    font-family: $heading-font-family;
+ 
+
+
     display: flex;
     align-items: center;
     font-size: 16px;
@@ -183,10 +197,11 @@
     span {
       display: block;
       margin-left: 8px;
-      font-size: 12px;
+      font-size: 20px;
       font-weight: 700;
       letter-spacing: 1px;
       text-transform: uppercase;
+      margin-right: 40px;
       @media (max-width: $desktop) {
         display: none;
       }

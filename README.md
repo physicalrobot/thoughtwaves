@@ -1,10 +1,10 @@
-# Thoughtwave
+# Thoughtwaves
 
-Welcome to **Thoughtwave** – a destination where curiosity meets discovery!
+Welcome to **Thoughtwaves** – a destination where curiosity meets discovery!
 
 ## About
 
-**Thoughtwave** is a personal blog created by Vikalp Malhotra, a former astrophysics major and science enthusiast. Here, I share my thoughts on the latest scientific discoveries, dive into awesome concepts in science, and discuss the wonders of the universe.
+**Thoughtwaves** is a personal blog created by Vikalp Malhotra, a former astrophysics major and science enthusiast. Here, I share my thoughts on the latest scientific discoveries, dive into awesome concepts in science, and discuss the wonders of the universe.
 
 This blog is dedicated to science communication and education, aiming to inspire anyone who has a passion for learning more about the world through the lens of physics, astronomy, and other scientific disciplines.
 
@@ -31,7 +31,7 @@ If you are:
 - Someone who enjoys keeping up with the latest discoveries in science
 - Or just a curious mind looking to learn something new
 
-Then **Thoughtwave** is the place for you!
+Then **Thoughtwaves** is the place for you!
 
 ## Get In Touch
 

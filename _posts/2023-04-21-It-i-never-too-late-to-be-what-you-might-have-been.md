@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  The Nature of Time
-description: Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies...
+description: What is time?
 date:   2024-09-18 15:01:35 +0300
 image:  '/images/clock.jpg'
 tags:   [Physics]

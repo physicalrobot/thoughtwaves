@@ -2,7 +2,7 @@
 # General Site Settings
 baseurl: "/thoughtwaves" # The subpath of your site, e.g. /blog
 url: "https://physicalrobot.github.io/" # The base hostname & protocol for your site, e.g. http://example.com
-
+image: '/images/scientistskele.png'
 
 #-------------------------------
 # Build settings

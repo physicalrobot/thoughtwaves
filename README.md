@@ -38,3 +38,4 @@ Then **Thoughtwaves** is the place for you!
 Have a question or want to suggest a topic for a future post? Feel free to reach via email: 
 
 Happy learning, and let's keep riding the Thoughtwave of scientific discovery together!
+"# theoremsandthings" 
